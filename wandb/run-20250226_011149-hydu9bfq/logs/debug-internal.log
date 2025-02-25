@@ -1,0 +1,16 @@
+{"time":"2025-02-26T01:11:49.620063+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/Users/owlxshri/Desktop/distance_classification/distance_classification/wandb/run-20250226_011149-hydu9bfq/logs/debug-core.log"}
+{"time":"2025-02-26T01:11:50.033199+05:30","level":"INFO","msg":"created new stream","id":"hydu9bfq"}
+{"time":"2025-02-26T01:11:50.033307+05:30","level":"INFO","msg":"stream: started","id":"hydu9bfq"}
+{"time":"2025-02-26T01:11:50.033323+05:30","level":"INFO","msg":"handler: started","stream_id":"hydu9bfq"}
+{"time":"2025-02-26T01:11:50.033535+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hydu9bfq"}
+{"time":"2025-02-26T01:11:50.033703+05:30","level":"INFO","msg":"sender: started","stream_id":"hydu9bfq"}
+{"time":"2025-02-26T01:11:50.518193+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-26T01:11:50.574911+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-26T01:13:14.530016+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-26T01:13:14.704286+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-26T01:13:34.169448+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-26T01:13:34.191391+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-26T01:13:43.068391+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-26T01:13:43.084012+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-26T01:13:56.254722+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-26T01:13:57.171934+05:30","level":"INFO","msg":"Pausing system monitor"}

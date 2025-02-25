@@ -1,0 +1,3 @@
+[ WARN:0@0.008] global loadsave.cpp:268 findDecoder imread_('example.png'): can't open/read file: check file path/integrity
+[ WARN:0@19.596] global loadsave.cpp:268 findDecoder imread_('plakshaFaculty.png'): can't open/read file: check file path/integrity
+[ WARN:0@28.493] global loadsave.cpp:268 findDecoder imread_('PlakshaFaculty.png'): can't open/read file: check file path/integrity

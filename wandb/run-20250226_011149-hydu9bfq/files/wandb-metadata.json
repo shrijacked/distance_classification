@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-15.3.1-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.13.2",
+  "startedAt":  "2025-02-25T19:41:49.617476Z",
+  "program":  "/Users/owlxshri/Desktop/distance_classification/distance_classification/shrijak_lab5.ipynb",
+  "codePath":  "shrijak_lab5.ipynb",
+  "git":  {
+    "remote":  "https://github.com/shrijacked/distance_classification.git",
+    "commit":  "7d6c95736978e2f2281d9ccece782468dcd5a18f"
+  },
+  "email":  "edushrijak@gmail.com",
+  "root":  "/Users/owlxshri/Desktop/distance_classification/distance_classification",
+  "host":  "Shrijaks-MacBook-Pro.local",
+  "executable":  "/Users/owlxshri/Desktop/distance_classification/distance_classification/venv/bin/python",
+  "codePathLocal":  "shrijak_lab5.ipynb",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "143352872960"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "494384795648",
+      "used":  "143352872960"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  10,
+    "countLogical":  10
+  },
+  "apple":  {
+    "name":  "Apple M2 Pro",
+    "ecpuCores":  4,
+    "pcpuCores":  6,
+    "gpuCores":  16,
+    "memoryGb":  16,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "17179869184"
+  }
+}
