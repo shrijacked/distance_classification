@@ -13,7 +13,7 @@ def load_dataset(file_path):
         return None
 
 if __name__ == "__main__":
-    file_path = "dataset.csv"  # Modify with the actual path
+    file_path = "dataset.csv"  
     dataset = load_dataset(file_path)
     if dataset is not None:
         print(dataset.head())
