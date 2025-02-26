@@ -4,4 +4,4 @@
 
 We used Weights & Biases for tracking our distance classification project. Below is the dashboard screenshot:  
 
-![WandB Dashboard](wand_dashboard.jpg)
+![WandDB_Dashboard](https://github.com/shrijacked/distance_classification/blob/main/wand_dashboard.png)
